@@ -1,0 +1,9 @@
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\bin\Debug\bai1.exe.config
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\bin\Debug\bai1.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\bin\Debug\bai1.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.Form1.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.Properties.Resources.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.csproj.GenerateResource.Cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 3\bai1\bai1\obj\Debug\bai1.pdb
