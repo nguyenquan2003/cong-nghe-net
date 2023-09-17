@@ -1,0 +1,10 @@
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\bin\Debug\Buoi4_Bai1TaiLop.exe.config
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\bin\Debug\Buoi4_Bai1TaiLop.exe
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\bin\Debug\Buoi4_Bai1TaiLop.pdb
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.csproj.AssemblyReference.cache
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.Properties.Resources.resources
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.csproj.GenerateResource.cache
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.csproj.CoreCompileInputs.cache
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.exe
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.pdb
+C:\Lap_trinh_web\Buoi4_Bai1TaiLop\Buoi4_Bai1TaiLop\obj\Debug\Buoi4_Bai1TaiLop.frmTreeView.resources

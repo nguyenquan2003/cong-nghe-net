@@ -1,0 +1,20 @@
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.exe.config
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.exe
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.pdb
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.AssemblyReference.cache
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.Form1.resources
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.Properties.Resources.resources
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.GenerateResource.cache
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.CoreCompileInputs.cache
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.exe
+C:\Lap_trinh_web\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.pdb
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.exe.config
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.exe
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\bin\Debug\Buoi4_Bai2.pdb
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.Form1.resources
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.Properties.Resources.resources
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.exe
+C:\Users\admin\Downloads\Buổi 4\Buoi4_Bai2\Buoi4_Bai2\obj\Debug\Buoi4_Bai2.pdb
