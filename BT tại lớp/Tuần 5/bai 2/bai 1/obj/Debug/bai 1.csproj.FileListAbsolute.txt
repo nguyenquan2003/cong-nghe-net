@@ -1,0 +1,19 @@
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\bin\Debug\bai 1.exe.config
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\bin\Debug\bai 1.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\bin\Debug\bai 1.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai 1.csprojResolveAssemblyReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai_1.Form1.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai_1.Properties.Resources.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai 1.csproj.GenerateResource.Cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai 1.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\buoi 5\bai 1\bai 1\obj\Debug\bai 1.pdb
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\bin\Debug\bai 1.exe.config
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\bin\Debug\bai 1.exe
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\bin\Debug\bai 1.pdb
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai 1.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai_1.Form1.resources
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai_1.Properties.Resources.resources
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai 1.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai 1.exe
+C:\Users\admin\Downloads\buoi 5\bai 2\bai 1\obj\Debug\bai 1.pdb
