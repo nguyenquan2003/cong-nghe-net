@@ -1,0 +1,94 @@
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe.config
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csprojResolveAssemblyReference.cache
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangKy.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangNhap.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.Properties.Resources.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.GenerateResource.Cache
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienNV.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienQL.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.KhachHang.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaNV.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ListBan.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuNV.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemKH.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.QLNV.resources
+D:\DaiHoc\.NET\Do` an'\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe.config
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csprojResolveAssemblyReference.cache
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangKy.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangNhap.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienQL.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.KhachHang.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ListBan.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuQL.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.Properties.Resources.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.QLNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemKH.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemNV.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.GenerateResource.Cache
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemMenu.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemBan.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DanhSachBan.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ChiTietHoaDon.resources
+D:\DaiHoc\.NET\DoAn\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaQL.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe.config
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.AssemblyReference.cache
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ChiTietHoaDon.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangKy.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangNhap.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DanhSachBan.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienNV.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienQL.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.KhachHang.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaNV.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaQL.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuNV.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuQL.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.Properties.Resources.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.QLNV.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemBan.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemKH.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemMenu.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemNV.resources
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.GenerateResource.cache
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.CoreCompileInputs.cache
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+D:\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe.config
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\bin\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.AssemblyReference.cache
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ChiTietHoaDon.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangKy.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DangNhap.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.DanhSachBan.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienNV.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.GiaoDienQL.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.KhachHang.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaNV.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.LichSuCaQL.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuNV.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.MenuQL.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.Properties.Resources.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.QLNV.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemBan.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemKH.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemMenu.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\_2001210682_PhanMinhKhai_.NET_DoAn.ThemNV.resources
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.GenerateResource.cache
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.exe
+C:\Users\Lmhie\Documents\Zalo Received Files\Máy tính\HK5\.Net\Project\dotNET\2001210682_PhanMinhKhai_.NET_DoAn\2001210682_PhanMinhKhai_.NET_DoAn\obj\Debug\2001210682_PhanMinhKhai_.NET_DoAn.pdb

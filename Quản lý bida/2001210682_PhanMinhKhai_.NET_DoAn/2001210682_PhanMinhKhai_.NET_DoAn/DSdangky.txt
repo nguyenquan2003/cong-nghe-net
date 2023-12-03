@@ -1,0 +1,11 @@
+﻿NV001|Phan Minh Khải|097123456|Nam|admin|123.
+NV002|Trần Thị Lan Anh|0987654321|Nữ|nv002|Password2.
+NV003|Lê Văn Sĩ|0393456781|Nam|nv003|Password3.
+NV004|Nguyễn Văn An|0393456781|Nam|nv004|Password4.
+NV005|Trần Thị Quỳnh Anh|0393456781|Nữ|nv005|Password5.
+NV006|Phạm Thị Hồng Anh|0393456781|Nữ|nv006|Password6.
+NV007|Nguyễn Anh Quốc|0393456781|Nam|nv007|Password7.
+NV009|Võ Vũ Quốc Đạt|0393456781|Nam|nv008|Password8.
+NV010|Vũ Thị Hồng|0393456781|Nữ|nv009|Password9.
+NV011|Phan Minh Khải|0971208075|Nữ|nv001|khai123
+NV012|Lê Minh Hiếu|0329041329|Nam|nv012|123
