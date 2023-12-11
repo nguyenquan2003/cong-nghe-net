@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b764ba33345a4239b19f550a46ffb296" Name="Diagram1">
+        <EntityTypeShape EntityType="QL_DULICHModel.ChiTietHoaDon" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.ChiTietTour" Width="1.5" PointX="6" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.DanhGia" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.DatTour" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.HinhAnh" Width="1.5" PointX="3" PointY="22" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.HoaDon" Width="1.5" PointX="0.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.KhachHang" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.NhanVien" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.Tour" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QL_DULICHModel.USER" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="QL_DULICHModel.FK_ChiTietHoaDon_HoaDon" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_ChiTietHoaDon_Tour" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_ChiTietTour_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_ChiTietTour_Tour" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_DanhGia_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_DanhGia_Tour" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_DatTour_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_DatTour_Tour" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_HinhAnh_Tour" ManuallyRouted="false" />
+        <AssociationConnector Association="QL_DULICHModel.FK_HoaDon_KhachHang" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

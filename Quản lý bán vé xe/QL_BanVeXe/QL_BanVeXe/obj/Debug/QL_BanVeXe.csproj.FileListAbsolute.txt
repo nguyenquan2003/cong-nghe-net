@@ -1,0 +1,474 @@
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.xml
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+E:\HUIT\Học phần HK5\Công nghệ .Net\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.xml
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+C:\Users\Admin\Downloads\QLBVX\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.MSXML.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Project\HopeMoney\GiaHuy_QLBANVEXE\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.xml
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+C:\Users\Admin\Desktop\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+C:\Users\nghun\OneDrive\Máy tính\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe.config
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.exe
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\QL_BanVeXe.pdb
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\EnvDTE.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\stdole.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\Microsoft.MSXML.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.AssemblyReference.cache
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.SuggestedBindingRedirects.cache
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\DoAnCuoiKy.frmBaoCao.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.LogIn.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\LogIn_SignIn.frmQLNV.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.frm_QLChuyenDi.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyLoTrinh.frm_QLLTrinh.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QuanLyXe.Frm_QLXe.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QLVe_XuatVe.frm_QuanLyVe.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.QLBVX.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.Properties.Resources.resources
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.GenerateResource.cache
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CoreCompileInputs.cache
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.csproj.CopyComplete
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.exe
+D:\Phanmembanvexe\QL_BanVeXe\QL_BanVeXe\QL_BanVeXe\obj\Debug\QL_BanVeXe.pdb

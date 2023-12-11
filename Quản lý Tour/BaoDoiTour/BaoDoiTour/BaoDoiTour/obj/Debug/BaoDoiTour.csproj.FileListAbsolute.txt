@@ -1,0 +1,193 @@
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe.config
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.pdb
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Shared.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\Guna.UI2.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\stdole.dll
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.xml
+D:\folder\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.xml
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.Properties.Resources.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.Login.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainLayout.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainPageTab.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.GenerateResource.cache
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CoreCompileInputs.cache
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CopyComplete
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.exe
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.pdb
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLKHang.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLHDon.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLNV.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLTours.resources
+D:\folder\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.AssemblyReference.cache
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe.config
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.exe
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.pdb
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csprojResolveAssemblyReference.cache
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.Properties.Resources.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.Login.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainLayout.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainPageTab.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLHDon.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLKHang.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLNV.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLTours.resources
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.GenerateResource.Cache
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.pdb
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.dll
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\Guna.UI2.dll
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.xml
+D:\HocTap\3\.Net\BaiTapLon\BaoDoiTour (1)\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe.config
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.pdb
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\Guna.UI2.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\stdole.dll
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.xml
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.AssemblyReference.cache
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.Properties.Resources.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.ChiTietTour.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DatTour.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DoiMK.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.InRPTChiTietHoaDon.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.Login.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.LoiDangNhap.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainLayout.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainPageTab.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLHDon.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLKHang.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLNV.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLTours.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QuenMK.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.TTDKyNV.resources
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.GenerateResource.cache
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CoreCompileInputs.cache
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CopyComplete
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.exe
+C:\Users\trant\OneDrive\Máy tính\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.pdb
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe.config
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.pdb
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\Guna.UI2.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\stdole.dll
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.xml
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.AssemblyReference.cache
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.Properties.Resources.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.ChiTietTour.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DatTour.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DoiMK.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.InRPTChiTietHoaDon.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.Login.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.LoiDangNhap.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainLayout.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainPageTab.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLHDon.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLKHang.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLNV.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLTours.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QuenMK.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.TTDKyNV.resources
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.GenerateResource.cache
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CoreCompileInputs.cache
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CopyComplete
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.exe
+C:\Users\HUY PC\Documents\Zalo Received Files\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.pdb
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe.config
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.exe
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\BaoDoiTour.pdb
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.Properties.Resources.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.ChiTietTour.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DatTour.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.DoiMK.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.InRPTChiTietHoaDon.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.Login.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.LoiDangNhap.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainLayout.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.MainPageTab.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLHDon.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLKHang.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLNV.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QLTours.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.QuenMK.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.View.TTDKyNV.resources
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.csproj.CopyComplete
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.exe
+C:\Users\admin\Downloads\BaoDoiTour\BaoDoiTour\BaoDoiTour\BaoDoiTour\obj\Debug\BaoDoiTour.pdb

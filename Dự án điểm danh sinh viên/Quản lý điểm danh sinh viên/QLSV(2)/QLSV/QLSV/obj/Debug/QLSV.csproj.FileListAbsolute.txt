@@ -1,0 +1,131 @@
+C:\CongNgheNet\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\CongNgheNet\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\CongNgheNet\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\CongNgheNet\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\CongNgheNet\baocao\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\CongNgheNet\baocao\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\CongNgheNet\baocao\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\CongNgheNet\baocao\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\CongNgheNet\baocao\baocao\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV\QLSV\obj\Debug\QLSV.Form7.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form7.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form8.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver 5\QLSV\QLSV\obj\Debug\QLSV.Form9.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form7.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form8.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form9.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Chien\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form7.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form8.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form9.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver3ll12\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form1.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form2.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form3.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form4.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form5.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form6.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form7.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form8.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Form9.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\84339\OneDrive - Ho Chi Minh city University of Food Industry\nam hoc 23-24\HK 23\CONG NGHE NET\bao cao\giao dien\ver8ll12f\QLSV(2)\QLSV\QLSV\obj\Debug\QLSV.pdb
