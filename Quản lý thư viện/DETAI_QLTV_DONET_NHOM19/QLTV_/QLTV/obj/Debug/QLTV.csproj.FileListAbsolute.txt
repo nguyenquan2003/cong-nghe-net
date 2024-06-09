@@ -1,0 +1,390 @@
+G:\Cong nghe.Net\QLTV\QLTV\bin\Debug\QLTV.exe.config
+G:\Cong nghe.Net\QLTV\QLTV\bin\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV\QLTV\bin\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\bin\Debug\QLTV.exe.config
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\bin\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\bin\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.Sach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.TacGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.TheLoai.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.Sach.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe.config
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.SACH.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TacGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TheLoai.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.exe.config
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.SACH.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.TacGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.TheLoai.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.NhaXuatBan.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Downloads\QLTV (DANG LAM GIAO DIEN) (1) (1)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\bin\Debug\QLTV.exe.config
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\bin\Debug\QLTV.exe
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\bin\Debug\QLTV.pdb
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.SACH.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.TacGia.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.TheLoai.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\Cong nghe.Net\QLTV (DAOXONGLOGIC)(CONXULYFORM_THOAT_CHUYEN)(TIMKIEM)_6_11\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_NhanVien.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Downloads\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe.config
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.exe
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.pdb
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.pdb
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.dangnhap.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.SACH.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TacGia.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TheLoai.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DATASQL.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe.config
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.pdb
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.dangnhap.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DATASQL.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.SACH.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TacGia.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TheLoai.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.exe
+F:\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DATASQL.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV (CHINH DANG LAM BUA GIO)\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.DATASQL.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\PM_QLTV\QLTV_\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\bin\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\bin\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DATASQL.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.exe
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.pdb
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DOTNET_DOAN\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DangKy.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.BAOCAO_PM_1.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.dangnhap.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DanhSachQuaHan.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.DATASQL.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienAD.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.GiaoDienNV.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.PhieuMuonSach.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.PhieuTraSach.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.QuanLyNhanVien.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.QuenMatKhau.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.SACH.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.TacGia.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.TheLoai.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_DangKy.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_DocGia.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_MuonTraSach.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_QLSach.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.UC_ThongKe.resources
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.exe
+C:\Users\admin\Downloads\DETAI_QLTV_DONET_NHOM19\DETAI_QLTV_DONET_NHOM19\QLTV_\QLTV\obj\Debug\QLTV.pdb
